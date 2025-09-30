@@ -2,7 +2,7 @@
 Cleaned and commented analysis script for Brain Age comparisons.This script will allow you to replicate the main results of [...]
 
 
-Author: Alejandro Roig Herrero LLM assisted
+Author: Alejandro Roig Herrero
 Date: 2025-09-29
 
 English
